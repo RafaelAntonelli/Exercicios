@@ -49,6 +49,7 @@ public class Exercicio_Banco {
 	
 	System.out.println("Updated data:");
 	System.out.println("Holder: " + banco);
+	System.out.println();  
 	
 	sc.close();
 
