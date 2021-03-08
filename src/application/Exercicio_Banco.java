@@ -11,6 +11,8 @@ public class Exercicio_Banco {
 	Locale.setDefault(Locale.US);
 	Scanner sc = new Scanner(System.in);
 	
+	System.out.println("Bom dia!");
+	
 	
 	System.out.print("Enter account holder: ");
 	String name = sc.nextLine();
